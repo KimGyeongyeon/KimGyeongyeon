@@ -10,10 +10,10 @@
 
 📫 [Email] kgy556@naver.com
 
-📚 [Blog] https://dev-juli.tistory.com/
-
 <!--
 **KimGyeongyeon/KimGyeongyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+📚 [Blog] https://dev-juli.tistory.com/
 
 Here are some ideas to get you started:
 
