@@ -1,9 +1,3 @@
-### 👩‍💻 안드로이드 개발자 김경연입니다
-
----
-
-[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGyeongyeon)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💡Contact 
 
 ---
@@ -25,4 +19,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGyeongyeon)](https://github.com/anuraghazra/github-readme-stats)
 -->
