@@ -4,6 +4,7 @@
 
 📫 [Email] kgy556@naver.com
 
+
 <!--
 **KimGyeongyeon/KimGyeongyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,5 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGyeongyeon)](https://github.com/anuraghazra/github-readme-stats)
+[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGyeongyeon&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 -->
