@@ -12,6 +12,7 @@
 
 🔸 네이버 부스트캠프 Android 멤버십 과정 [2022.08.29 ~ 2022.12.16]
 
+[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGyeongyeon&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KimGyeongyeon/KimGyeongyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,6 +30,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimGyeongyeon&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
