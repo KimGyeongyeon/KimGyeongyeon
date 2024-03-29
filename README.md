@@ -5,12 +5,7 @@
 ### Careers
 
 🔸 Deeply Android Developer [2023.03 ~ ]
-
-### Education
-
-🔸 네이버 부스트캠프 Android 챌린지 과정 [2022.07.18 ~ 2022.08.12]
-
-🔸 네이버 부스트캠프 Android 멤버십 과정 [2022.08.29 ~ 2022.12.16]
+🔸 Deeply Python Backend Developer [2023.10 ~ ]
 
 
 <!--
@@ -18,6 +13,11 @@
 
 📚 [Blog] https://dev-juli.tistory.com/
 
+### Education
+
+🔸 네이버 부스트캠프 Android 챌린지 과정 [2022.07.18 ~ 2022.08.12]
+
+🔸 네이버 부스트캠프 Android 멤버십 과정 [2022.08.29 ~ 2022.12.16]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
