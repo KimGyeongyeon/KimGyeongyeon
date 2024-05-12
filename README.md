@@ -5,6 +5,7 @@
 ### Careers
 
 🔸 Deeply Android Developer [2023.03 ~ ]
+
 🔸 Deeply Python Backend Developer [2023.10 ~ ]
 
 
