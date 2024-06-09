@@ -5,9 +5,10 @@
 ### Careers
 
 🔸 Deeply Android Developer [2023.03 ~ ]
+- Stacks : Kotlin, Kotlin Coroutines﻿, WorkManager, Room
 
 🔸 Deeply Python Backend Developer [2023.10 ~ ]
-
+- Stacks : Python, FastAPI, Docker, Redis, MySQL
 
 <!--
 **KimGyeongyeon/KimGyeongyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
