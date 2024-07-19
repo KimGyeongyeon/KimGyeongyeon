@@ -7,7 +7,7 @@
 🔸 Deeply Android Developer [2023.03 ~ ]
 - Stacks : Kotlin, Kotlin Coroutines﻿, WorkManager, Room
 
-🔸 Deeply Python Backend Developer [2023.10 ~ ]
+🔸 Deeply Python Backend Developer [2023.10 ~ 2024.6]
 - Stacks : Python, FastAPI, Docker, Redis, MySQL
 
 <!--
