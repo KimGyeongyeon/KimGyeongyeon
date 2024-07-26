@@ -4,7 +4,7 @@
 
 ### Careers
 
-🔸 Deeply Android Developer [2023.03 ~ ]
+🔸 Deeply Android Developer [2023.03 ~ 2023.10]
 - Stacks : Kotlin, Kotlin Coroutines﻿, WorkManager, Room
 
 🔸 Deeply Python Backend Developer [2023.10 ~ 2024.6]
@@ -34,3 +34,6 @@ Here are some ideas to get you started:
 
 
 -->
+
+
+
