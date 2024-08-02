@@ -2,7 +2,7 @@
 
 🔸 [Email] kgy556@naver.com
 
-### Careers
+### Career
 
 🔸 Deeply Android Developer [2023.03 ~ 2023.10]
 - Stacks : Kotlin, Kotlin Coroutines﻿, WorkManager, Room
