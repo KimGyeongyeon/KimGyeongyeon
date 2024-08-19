@@ -1,6 +1,7 @@
 ### Contact 
 
 🔸 [Email] kgy556@naver.com
+
 📚 [Blog] https://dev-juli.tistory.com/
 
 ### Career
